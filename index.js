@@ -5,7 +5,7 @@ function happyHolidays(){
 }
 
 
-function happyHolidaysTO(Kim){
+function happyHolidaysTO("Kim"){
   colsole.log(`Happy holidays, ${name}!`);
   return `Happy holidays, ${name}!`;
 }
