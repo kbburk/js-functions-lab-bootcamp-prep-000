@@ -4,7 +4,8 @@ function happyHolidays(){
   return "Happy holidays!";
 }
 
-var name = "you";
+
 function happyHolidaysTO(nmme){
+  colsole.log()
   return `Happy holidays, ${name}!`;
 }
