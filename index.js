@@ -6,7 +6,6 @@ function happyHolidays(){
 
 
 function holidayCountdown(holiday, days){
-  var holiday = "independence Day"
   return `It's ${days} days until ${holiday}!`;
 }
 
