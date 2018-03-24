@@ -6,6 +6,6 @@ function happyHolidays(){
 
 
 function happyHolidaysTO("Kim"){
-  colsole.log(`Happy holidays, ${name}!`);
+  var name = "kim"
   return `Happy holidays, ${name}!`;
 }
