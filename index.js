@@ -6,6 +6,6 @@ function happyHolidays(){
 
 
 function happyHolidaysTO(nmme){
-  colsole.log()
+  colsole.log(`Happy holidays, ${name}!`)
   return `Happy holidays, ${name}!`;
 }
