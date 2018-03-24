@@ -4,6 +4,10 @@ function happyHolidays(){
   return "Happy holidays!";
 }
 
+function happyHolidays(nmme){
+  return `Happy holidays, ${name};
+}
+
 function say(greeting, firstName) {
       return `${greeting}, ${firstName}!`
 }  
